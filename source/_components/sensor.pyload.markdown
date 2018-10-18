@@ -38,7 +38,7 @@ name:
   description: The name to use when displaying this pyLoad instance.
   required: false
   type: string
-  default: 20
+  default: pyLoad
 username:
   description: Your pyLoad username.
   required: false
